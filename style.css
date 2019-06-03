@@ -1,0 +1,399 @@
+.block {
+    width: 1280px;
+    height: 3137px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 323px;
+    background-color: #445162;
+    border: 1px solid black;
+}
+.product_name {
+    float: left;
+    width: 458px;
+    height: 222px;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.product_name li {
+    list-style-image: url("img/check_icon.png");
+}
+.product_name span {
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 400;
+    background-color: #445162;
+}
+.field {
+    height: 214px;
+    width: 469px;
+    background-color: #ffffff;
+    float: left;
+    margin-left: 253px;
+    margin-top: 50px;
+}
+
+.block1 {
+    height: 323px;
+}
+.about_product {
+    height: 201px;
+    width: 653px;
+    color: #333333;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 50px;
+    margin-top: 49px;
+    float: left;
+}
+.about_product span {
+    color: #445161;
+    font-size: 30px;
+    line-height: 36px
+    background-color: #ffffff;
+}
+.field2 {
+    height: 245px;
+    width: 430px;
+    background-color: #445161;
+    margin-top: 50px;
+    margin-left: 97px;
+    float: left;
+}
+
+.block2 {
+    height: 438px;
+    background-color: #f5f5f5;
+    margin-top: 20px;
+}
+.block2 span {
+    width: 351px;
+    height: 28px;
+    color: #445161;
+    font-family: "Arial MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-left: 464px;
+    margin-top: 49px;
+    float: left;
+}
+.block2 section {
+    height: 260px;
+    width: 567px;
+    float: left;
+}
+
+.block2 section span {
+    height: 32px;
+    width: 32px;
+    background-image: url("img/2-layers.png");
+    margin-left: 50px;
+    float: left;
+}
+.block2 section article {
+    width: 526px;
+    height: 63px;
+    color: #333333;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 90px;
+    margin-top: -36px;
+    float: left;
+}
+.right_block2 {
+    margin-left: 28px;
+}
+.clr {
+    clear: both;
+}
+.block3 {
+    height: 487px;
+}
+.block3 span {
+    width: 138px;
+    height: 22px;
+    color: #445161;
+    font-family: "Arial MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-top: 51px;
+    margin-left: 571px;
+    float: left;
+}
+.block3 section {
+    height: 331px;
+    width: 564px;
+    float: left;
+}
+.block3 section span {
+    height: 150px;
+    width: 200px;
+    background-color: #445161;
+    margin-left: 50px;
+    float: left;
+}
+.block3 section article {
+    color: #333333;
+    font-family: "Arial MT";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    height: 146px;
+    width: 359px;
+    margin-left: 265px;
+    margin-top: -153px;
+    float: left;
+}
+.block3 section article header {
+    width: 310px;
+    height: 23px;
+    color: #445161;
+    font-family: "Arial MT";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.right_block3 {
+    margin-left: 26px;
+}
+.block4 {
+    height: 424px;
+    background-color: #f5f5f5;
+}
+.block4 span {
+    width: 111px;
+    height: 22px;
+    color: #445161;
+    font-family: "Arial MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-top: 51px;
+    margin-left: 585px;
+    float: left;
+}
+.block4 section {
+    height: 226px;
+    width: 574px;
+    float: left;
+}
+.block4 section span {
+    height: 75px;
+    width: 75px;
+    background-image: url("img/userpic.png");
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 35px;
+    float: left;
+}
+.block4 section article {
+    height: 121px;
+    width: 483px;
+    background-image: url("img/bg_review.png");
+    background-repeat: no-repeat;
+    color: #333333;
+    font-family: "Arial - Italic MT";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 141px;
+    margin-top: -75px;
+    float: left;
+}
+.block4 section article p {
+    margin-left: 27px;
+}
+.block4 section article footer {
+    width: 67px;
+    height: 10px;
+    color: #989898;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 27px;
+}
+.right_block4 {
+    margin-left: 32px;
+}
+.block5 {
+    height: 656px;
+    width: 1280px;
+    position: relative;
+}
+.block5 span {
+    width: 137px;
+    height: 28px;
+    color: #445161;
+    font-family: "Arial MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-top: 50px;
+    margin-left: 572px;
+    float: left;
+}
+.f1 {
+    width: 300px;
+    height: 306px;
+    background-image: url("img/bg.png");
+    position: absolute; bottom: 50px; left: 145px;
+}
+.f2 {
+    width: 300px;
+    height: 404px;
+    background-image: url("img/bg2.png");
+    position: absolute; bottom: 50px; left: 490px;
+}
+.f3 {
+    width: 300px;
+    height: 499px;
+    background-image: url("img/bg3.png");
+    position: absolute; bottom: 50px; left: 835px;
+}
+.block5 figure figcaption {
+    width: 38px;
+    height: 17px;
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.f1 figcaption {
+    margin-top: 16px;
+    margin-left: 105px;
+}
+.f2 figcaption {
+    margin-top: 17px;
+    margin-left: 103px;
+}
+.f3 figcaption {
+    margin-top: 17px;
+    margin-left: 131px;
+}
+.block5 figure span {
+    background-image: url("img/bg-price.png");
+    width: 300px;
+    height: 71px;
+    color: #445162;
+    font-family: "Arial MT";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 0;
+    margin-top: 27px;
+    text-align: center;
+    margin-bottom: 19px;
+}
+.block5 figure span p {
+    margin-top: 18px;
+}
+.block5 ol {
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.block5 ol li:last-child {
+    width: 260px;
+    height: 40px;
+    background-image: url("img/bg_button.png");
+    background-repeat: no-repeat;
+    list-style: none;
+    margin-left: -19px;
+    margin-top: 6px;
+    color: #445161;
+    font-family: "Arial - Bold MT";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 11px;
+}
+.block5 ol li:last-child:hover {
+    font-size: 20px;
+    font-weight: 700;
+}
+.footer {
+    height: 509px;
+    background-color: #445162;
+}
+.footer span {
+    width: 117px;
+    height: 22px;
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-top: 53px;
+    margin-left: 582px;
+    float: left;
+}
+.footer form {
+    margin-top: 31px;
+    margin-left: 249px;
+    float: left;
+}
+.footer form :nth-child(2) {
+    margin-top: 21px;
+}
+.footer form input {
+    background-image: url("img/Shape_4.png");
+    height: 40px;
+    width: 500px;
+    border-radius: 8px;
+    float: left;
+}
+.footer textarea {
+    margin-top: 22px;
+    border-radius: 8px;
+    height: 170px;
+    width: 500px;
+    float: left;
+}
+.footer button {
+    height: 40px;
+    width: 140px;
+    border-radius: 8px;
+    margin-top: 21px;
+    margin-left: 180px;
+    background-color: #ffffff;
+    color: #445162;
+    font-family: "Arial - Bold MT";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+.footer button:hover {
+    font-size: 18px;
+    font-weight: 700;
+}
+.address {
+    height: 229px;
+    width: 240px;
+    margin-left: 250px;
+}
+.address span {
+    height: 26px;
+    width: 194px;
+    background-image: url("img/3-layers.png");
+}
